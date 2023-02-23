@@ -71,7 +71,7 @@ main{
     padding: 10px;
     box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.308);;
     max-width: 1000px;
-    min-width: 300px;
+    min-width: 250px;
     margin: auto;
     margin-bottom: 30px;
     margin-top: 0.5px;
@@ -98,7 +98,7 @@ h4{
 }
 .classh4{
     text-align: center;
-    width: 100px;
+    width: 80px;
 
     display:block;
     margin: auto;
